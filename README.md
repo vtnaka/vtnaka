@@ -3,7 +3,7 @@
 # Hello, nice to meet you! <img width="50px" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">
   I'm an undergraduate mechanical engineering student, interested in data science, machine learning and software development in general, and currently looking for repositories and projects to further build my portfolio.
   
-  Primarily using the repos to share the work I've done troughout engineering school and the research projects that I've participated in.
+  Primarily using the repos to share the work I've done troughout engineering school.
 ### Find me at:
   <a href="https://www.linkedin.com/in/vitor-nakayama/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" width="80px">
